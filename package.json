@@ -1,0 +1,20 @@
+{
+  "name": "coding-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-mocha test/*.spec.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^25.0.0",
+    "mocha": "^11.7.5",
+    "ts-mocha": "^11.1.0",
+    "typescript": "^5.9.3"
+  }
+}
