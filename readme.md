@@ -17,4 +17,31 @@ The goal is to **use as few cars as possible** to transport everyone and leave t
 ## Function Signature
 
 ```ts
-getMinimumCars(P: number[], S: number[]): number
+getMinimumCars(P: number[], S: number[]): number```
+
+---
+
+## Getting Started ✅
+
+**Prerequisites:**
+
+- **Node.js** (v16+ recommended)
+- **npm** (bundled with Node.js)
+
+**Install dependencies:**
+
+```bash
+npm install
+```
+
+> Tip: If you use a Node version manager, make sure your active Node version meets the prerequisite.
+
+## Running Tests ✅
+
+Run the test suite with npm:
+
+```bash
+npm test
+```
+
+The project uses `ts-mocha` to run the TypeScript tests located in the `test/` directory.
