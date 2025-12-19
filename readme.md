@@ -1,5 +1,7 @@
 # Minimum Cars Required 🚗
 
+[![Node.js CI](https://github.com/tommyshado/minimum-cars-required/actions/workflows/node.js.yml/badge.svg)](https://github.com/tommyshado/minimum-cars-required/actions/workflows/node.js.yml)
+
 ## Problem Description
 
 A group of friends is going on a trip. They all meet at a starting point using **N cars**.
